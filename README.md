@@ -8,7 +8,7 @@ Javascript script that, given a text file in format
 
 creates a plot. Accepts axes labels, optionally labels ticks in scientific notation, checks for label overlaps.
 
-Example: Used for the plots on my webpages
+Examples: Used for the plots on my webpages
 <ul>
   <li>http://smirnovi.com/ttt/</li>
   <li>http://smirnovi.com/conv/</li>
