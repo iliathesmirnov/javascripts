@@ -10,8 +10,7 @@ const oButton = document.getElementById('O');
 const stratSelector = document.getElementById('strategy');
 
 var STRATEGY = parseInt(stratSelector.value);
-	// 0 - random
-	// 1 - minimax
+	// 0 - random; 1 - minimax; 2 - Tabular Q-learning; 3 - Heuribot; 4 - DQN
 
 function offset(elem) {
 	if (!elem) elem = this;
