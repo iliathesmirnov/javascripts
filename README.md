@@ -1,8 +1,6 @@
 # javascripts
 Various Javascript scripts used on my webpage
 
-=======================================================
-
 <h2>plotter.js</h2>
 Javascript script that, given a text file in format 
 
@@ -14,14 +12,12 @@ Example: Used for the plots on my webpages
 http://smirnovi.com/ttt/
 http://smirnovi.com/conv/
 
-========================================================
 
-ttt.js:
+<h2> ttt.js </h2>
 Front-end for the Tic-Tac-Toe game on
 http://smirnovi.com/ttt/
 
-========================================================
 
-classifier.js:
+<h2> classifier.js </h2>
 Front-end for the hand-drawing classifier on
 http://smirnovi.com/conv/
