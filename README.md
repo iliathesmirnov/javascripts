@@ -2,7 +2,8 @@
 Various Javascript scripts used on my webpage
 
 =======================================================
-plotter.js:
+
+<h2>plotter.js</h2>
 Javascript script that, given a text file in format 
 
 "x0 y0,x1 y1,x2 y2,...,xn yn,;!"
@@ -14,11 +15,13 @@ http://smirnovi.com/ttt/
 http://smirnovi.com/conv/
 
 ========================================================
+
 ttt.js:
 Front-end for the Tic-Tac-Toe game on
 http://smirnovi.com/ttt/
 
 ========================================================
+
 classifier.js:
 Front-end for the hand-drawing classifier on
 http://smirnovi.com/conv/
