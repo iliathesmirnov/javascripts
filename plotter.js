@@ -3,10 +3,7 @@
 // *********************************** DATA IMPORTING ***************************************
 // ******************************************************************************************
 
-
 function importData(uri) {
-// ==================== Import data ====================
-
 var dataFile = new Array();
 var dataPoints = new Array();
 var importedText = "!";
@@ -206,7 +203,6 @@ ticks.xUnit = dataSpread.xOMUnit * unit.x;
 ticks.yUnit = dataSpread.yOMUnit * unit.y;
 
 
-
 // Draw grid
 
 var labelHeight, labelWidth;
@@ -247,7 +243,6 @@ class colBounds {
         this. down = down;
     }
 }
-
 
 ctx.beginPath();
 
@@ -351,14 +346,11 @@ if ((yMaxcB.up - textHeight) > yMaxlB.down) {
     ctx.lineTo(offset.widthL + graphDim.width, yMaxcB.y);
 }
 
-
 ctx.stroke();
-
 
 function measureTextHeight (string) {
     return (ctx.measureText(string).actualBoundingBoxAscent + ctx.measureText(string).actualBoundingBoxDescent);
 }
-
 
 
 // Draw the graph
