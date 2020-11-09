@@ -6,7 +6,9 @@ Javascript script that, given a text file in format
 
 "x0 y0,x1 y1,x2 y2,...,xn yn,;!"
 
-creates a plot. Accepts axes labels, optionally labels ticks in scientific notation, checks for label overlaps.
+creates a line plot with data points (x0, y0), ..., (xn, yn). 
+
+Optionally accepts axes labels, can switch between scientific and non-scientific notation (and vary precision), checks for label overlaps.
 
 Examples: Used for the plots on my webpages
 <ul>
