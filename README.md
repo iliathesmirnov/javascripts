@@ -10,15 +10,17 @@ creates a plot. Accepts axes labels, optionally labels ticks in scientific notat
 
 Examples: Used for the plots on my webpages
 <ul>
-  <li>http://smirnovi.com/ttt/</li>
-  <li>http://smirnovi.com/conv/</li>
+  <li>http://iliasmirnov.com/ttt/</li>
+  <li>http://iliasmirnov.com/conv/</li>
 </ul>
 
 <h2> ttt.js </h2>
-Front-end for the Tic-Tac-Toe game on the page
-http://smirnovi.com/ttt/
+Front-end for the Tic-Tac-Toe game
+
+http://iliasmirnov.com/ttt/
 
 
 <h2> classifier.js </h2>
-Front-end for the hand-drawing classifier on the page
-http://smirnovi.com/conv/
+Front-end for the hand-drawing classifier
+
+http://iliasmirnov.com/conv/
