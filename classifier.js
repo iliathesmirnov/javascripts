@@ -1,5 +1,5 @@
 function NN_FPass(layers, NNNodes, NNValues, NNWeights, inputImage, subImage, probCanvas) {
-    subSample (inputImage, subImage);
+    subSample(inputImage, subImage);
     drawImage('handdrawn-sub', 128, 128, subImage, [], false);
     NNValues[0] = subImage;
     for (r = 1; r < layers; r++) {
